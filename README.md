@@ -7,11 +7,14 @@
 
 -PC Showcase
 MOBO : TUF GAMING X570-PRO WIFI II
-CPU : AMD Ryzen™ 7 2700 - 8 cores, 16 threads
-RAM : Dominator Platinum RGB 32Gb 2133MHz (8x2)
-GPU : GeForce RTX™ 3090 GAMING OC 24G
-CASE : Lian Li O11 Mid-Tower
 
+CPU : AMD Ryzen™ 7 2700 - 8 cores, 16 threads
+
+RAM : Dominator Platinum RGB 32Gb 2133MHz (8x2)
+
+GPU : GeForce RTX™ 3090 GAMING OC 24G
+
+CASE : Lian Li O11 Mid-Tower
 
 
 
