@@ -6,6 +6,7 @@
 
 
 -PC Showcase
+
 MOBO : TUF GAMING X570-PRO WIFI II
 
 CPU : AMD Ryzen™ 7 2700 - 8 cores, 16 threads
